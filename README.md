@@ -1,9 +1,9 @@
 # Table of Contents 
 - [Overview](#Overview)
 - [Install/Setup](#Installation-Setup)
-    - [Cloning the Repo](##cloning-the-repository)
-    - [Setting the Environment Variables](##setting-the-environment-variables)
-    - [Suggested Directory Structure](##suggested-directory-structure)
+    - [Cloning the Repo](##Cloning-the-Repository)
+    - [Setting the Environment Variables](##Setting-the-Environment-Variables)
+    - [Suggested Directory Structure](##Suggested-Directory-Structure)
 
 # Overview
 
@@ -22,7 +22,8 @@ Add the following in ```~/.bashrc```
 export PATH=$PATH:<PATH-TO-REPO>/15VLSI17T/eda/ngspice-32/glnxa64/bin
 ```
 ## Suggested Directory Structure
+```bash
 <HOME_DIR>
 ├── 15VLSI7T  [Git Repo, DO NOT WORK IN THIS DIR]
 ├── Desktop/myLab [Your Wok Directory]
-
+```
