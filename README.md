@@ -23,7 +23,8 @@ export PATH=$PATH:<PATH-TO-REPO>/15VLSI17T/eda/ngspice-32/glnxa64/bin
 ```
 ## Suggested Directory Structure
 ```bash
-<HOME_DIR>
-├── 15VLSI7T  [Git Repo, DO NOT WORK IN THIS DIR]
-├── Desktop/myLab [Your Wok Directory]
+<HOME_DIR>          [eg. /home/vlsi]
+    ├── 15VLSI7T      [Git Repo, DO NOT WORK IN THIS DIR]
+    ├── Desktop
+          ├── myLab    [Your Wok Directory]
 ```
