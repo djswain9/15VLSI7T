@@ -3,9 +3,8 @@
     - [Cloning the Repo](#Cloning-the-Repository)
     - [Suggested Directory Structure](#Suggested-Directory-Structure)
 - [NGSpice](#NGSpice)    
-    - [Quick Start Guide](#Quick Start Guide)
 - [Technology](#Technology)
-    - [MOSIS Scalable CMOS (SCMOS)](#MOSIS Scalable CMOS (SCMOS))
+    
 
 # Overview
 
