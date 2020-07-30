@@ -51,6 +51,7 @@ The directory stucture:
 └── models                     (Spice models)
 ```
 ## Quick Start Guide
+```bash
 You can open a text editor create a *netlist* of the intended circuit for example of a voltage divider as shown below (say filename `divider.sp`):
 ```spice
 First line in ngspice is always the title line
@@ -77,6 +78,7 @@ And to quit simply type `quit`.
 
 # Technology
 ## MOSIS Scalable CMOS ([SCMOS])
+```bash
 [SCMOS] is a *lambda-based* scalable design rules that can be interfaced to many CMOS fabrication process available at MOSIS. **NOTE** The scalable design rules does not interface with Fabs now because of lot unique process nuances.
 
 - The Spice model files are located at `<PATH-TO-REPO>/project2020/eda/ngspice-32/models/scn4m_subm`
