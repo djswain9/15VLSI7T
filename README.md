@@ -1,9 +1,11 @@
 # Table of Contents 
 - [Overview](#Overview)
-- [Install/Setup](#Installation-Setup)
     - [Cloning the Repo](#Cloning-the-Repository)
-    - [Setting the Environment Variables](#Setting-the-Environment-Variables)
     - [Suggested Directory Structure](#Suggested-Directory-Structure)
+- [NGSpice](#NGSpice)    
+    - [Quick Start Guide](#Quick Start Guide)
+- [Technology](#Technology)
+    - [MOSIS Scalable CMOS (SCMOS)](#MOSIS Scalable CMOS (SCMOS))
 
 # Overview
 
@@ -48,7 +50,7 @@ The directory stucture:
 │           └── scripts        (Scripts, including startup spinit)
 └── models                     (Spice models)
 ```
-### Quick Start Guide
+## Quick Start Guide
 You can open a text editor create a *netlist* of the intended circuit for example of a voltage divider as shown below (say filename `divider.sp`):
 ```spice
 First line in ngspice is always the title line
