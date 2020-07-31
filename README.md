@@ -50,9 +50,8 @@ The directory stucture:
 └── models                     (Spice models)
 ```
 ## Quick Start Guide
-```bash
 You can open a text editor create a *netlist* of the intended circuit for example of a voltage divider as shown below (say filename `divider.sp`):
-```spice
+```bash
 First line in ngspice is always the title line
 * This is a comment line
 Vbat    vin     0       DC 5
