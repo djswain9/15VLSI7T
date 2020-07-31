@@ -2,7 +2,8 @@
 - [Overview](#Overview)
     - [Cloning the Repo](#Cloning-the-Repository)
     - [Suggested Directory Structure](#Suggested-Directory-Structure)
-- [NGSpice](#NGSpice)    
+- [NGSpice](#NGSpice)   
+    - [Quick Start Guide](#Quick Start Guide) 
 - [Technology](#Technology)
     
 
@@ -48,7 +49,7 @@ The directory stucture:
 │       └── ngspice
 │           └── scripts        (Scripts, including startup spinit)
 └── models                     (Spice models)
-```
+
 ## Quick Start Guide
 You can open a text editor create a *netlist* of the intended circuit for example of a voltage divider as shown below (say filename `divider.sp`):
 ```bash
@@ -64,26 +65,6 @@ tran 0.1u 1u
 
 .end
 ```
-
-**NOTE** :
->*BUGS DETECTED* -(once you *source* your (.sp file) after entering ngspice sim>ulator,the file seems to disappear the next time u search it in your directory
-
->(That's because there is an error while editing the fie in ngspice simulator..
-
->*DEBUG*:
->source and run in batch mode
-  -*Sourcing*:
-```bash
-/home/vlsi/../../ ngspice circuit.sp
-```
- -*Run*:
-```bash
-ngspice -b -r sim.raw -o sim.log sim.sp
-```
-
->(Then it will run ngspice,store the output in *sim.raw* and log file in *sim.l>og* and not enter ngspice in interactive mode..)
-   
-=======
 Then start `ngspice` and source the netlist at the ngspice command prompt:
 ```bash
 ngspice 1 -> source divider.sp
@@ -93,6 +74,8 @@ It should output the node voltages at the initial transient voltages. you can pl
 ngspice 3 -> edit
 ```
 And to quit simply type `quit`.
+```
+
 
 # Technology
 ## MOSIS Scalable CMOS ([SCMOS])
@@ -113,10 +96,10 @@ And to quit simply type `quit`.
 [Magic]:                http://opencircuitdesign.com/magic/
 
 **NOTE** :
->*BUGS DETECTED* -(once you *source* your (.sp file) after entering ngspice 
->simulator,the file seems to disappear the next time u search it in your directory
+>*BUGS DETECTED* -Once you *source* your (.sp file) after entering ngspice 
+>simulator,the file seems to disappear the next time you search it in your directory.
 
->(That's because there is an error while editing the fie in ngspice simulator..
+>(That's because there is an error while editing the fie in ngspice simulator)
 
 >*DEBUG*:
 >source and run in batch mode
@@ -129,8 +112,4 @@ And to quit simply type `quit`.
 ngspice -b -r sim.raw -o sim.log sim.sp
 ```
 
->(Then it will run ngspice,store the output in *sim.raw* and log file in *sim.l>og* and not enter ngspice in interactive mode..)
-
-
-
->>>>>>> 3a4b72ef291aab0b1d259af78a8b6b236866b28f
+>Then it will run ngspice,store the output in *sim.raw* and log file in *sim.log* and not enter ngspice in interactive mode.
