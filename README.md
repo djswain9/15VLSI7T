@@ -28,3 +28,21 @@ export PATH=$PATH:<PATH-TO-REPO>/15VLSI17T/eda/ngspice-32/glnxa64/bin
     ├── Desktop
           ├── myLab    [Your Wok Directory]
 ```
+**NOTE** :
+>*BUGS DETECTED* -(once you *source* your (.sp file) after entering ngspice sim>ulator,the file seems to disappear the next time u search it in your directory
+
+>(That's because there is an error while editing the fie in ngspice simulator..
+
+>*DEBUG*:
+>source and run in batch mode
+  -*Sourcing*:
+```bash
+/home/vlsi/../../ ngspice circuit.sp
+```
+ -*Run*:
+```bash
+ngspice -b -r sim.raw -o sim.log sim.sp
+```
+
+>(Then it will run ngspice,store the output in *sim.raw* and log file in *sim.l>og* and not enter ngspice in interactive mode..)
+   
