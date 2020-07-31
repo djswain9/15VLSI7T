@@ -66,9 +66,6 @@ tran 0.1u 1u
 .end
 ```
 
-
-=======
-=======
 Then start `ngspice` and source the netlist at the ngspice command prompt:
 ```bash
 ngspice 1 -> source divider.sp
@@ -77,30 +74,22 @@ It should output the node voltages at the initial transient voltages. you can pl
 ```bash
 ngspice 3 -> edit
 ```
-
 **NOTE** :
->*BUGS DETECTED* -(once you *source* your (.sp file) after entering ngspice
->simulator,the file seems to disappear the next time u search it in your directory
+*BUG* -(once you *source* your (.sp file) after entering ngspice simulator, the file seems to disappear the next time u search it in your directory. That's because there is an error while editing the file in ngspice simulator..
 
->(That's because there is an error while editing the fie in ngspice simulator..
+*SOLUTION*: source and run in batch mode
 
->*DEBUG*:
->source and run in batch mode
-
-  -*Sourcing*:
-
+- *Sourcing*:
 ```bash
-/home/vlsi/../../ ngspice circuit.sp
+ngspice circuit.sp
 ```
- -*Run*:
+- *Running*:
 ```bash
 ngspice -b -r sim.raw -o sim.log sim.sp
 ```
+(Then it will run ngspice, store the output in *sim.raw* and log file in
+*sim.log* and not enter ngspice in interactive mode..)
 
->(Then it will run ngspice,store the output in *sim.raw* and log file in
->*sim.log* and not enter ngspice in interactive mode..)
-
-=======
 And to quit simply type `quit`.
 
 
