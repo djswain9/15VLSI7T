@@ -49,6 +49,7 @@ The directory stucture:
 │           └── scripts        (Scripts, including startup spinit)
 └── models                     (Spice models)
 ```
+
 ## Quick Start Guide
 You can open a text editor create a *netlist* of the intended circuit for example of a voltage divider as shown below (say filename `divider.sp`):
 ```bash
@@ -65,6 +66,8 @@ tran 0.1u 1u
 .end
 ```
 
+
+=======
 =======
 Then start `ngspice` and source the netlist at the ngspice command prompt:
 ```bash
@@ -97,7 +100,9 @@ ngspice -b -r sim.raw -o sim.log sim.sp
 >(Then it will run ngspice,store the output in *sim.raw* and log file in
 >*sim.log* and not enter ngspice in interactive mode..)
 
+=======
 And to quit simply type `quit`.
+
 
 # Technology
 ## MOSIS Scalable CMOS ([SCMOS])
@@ -116,4 +121,5 @@ And to quit simply type `quit`.
 [NGSpice]:              http://ngspice.sourceforge.net
 [NGSpiceMan]:           http://ngspice.sourceforge.net/docs/ngspice-html-manual/manual.xhtml
 [Magic]:                http://opencircuitdesign.com/magic/
+
 
