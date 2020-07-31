@@ -94,17 +94,17 @@ And to quit simply type `quit`.
 [NGSpiceMan]:           http://ngspice.sourceforge.net/docs/ngspice-html-manual/manual.xhtml
 [Magic]:                http://opencircuitdesign.com/magic/
 
-```
+
 
 **NOTE** :
 >*BUGS DETECTED* -Once you *source* your (.sp file) after entering ngspice 
->simulator,the file seems to disappear the next time you search it in your directory.
+simulator,the file seems to disappear the next time you search it in your directory.
 
 >(That's because there is an error while editing the fie in ngspice simulator)
 
 >*DEBUG*:
 >source and run in batch mode
-  -*Sourcing*:
+-*Sourcing*:
 ```bash
 /home/vlsi/../../ ngspice circuit.sp
 ```
