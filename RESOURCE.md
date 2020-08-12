@@ -4,7 +4,7 @@
 - [Course Materials](#Class-Material)
 
 # Syllabus
-**MODULE-I** (Chapter 1 to 5 of Text Book 1 and for Stick Diagram Text Book 2)
+**MODULE-I** (Chapter 1 to 5 of Text Book 1([Kang03]) and for Stick Diagram Text Book 2 ([Weste11]) )
 - **Introduction**: Historical Perspective, VLSI Design Methodologies, VLSI Design Flow,Design
 Hierarchy, Concept of Regularity, Modularity and Locality.
 - **Fabrication of MOSFETs**: Introduction, Fabrication Processes Flow – Basic Concepts,The
