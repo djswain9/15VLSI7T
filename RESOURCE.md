@@ -4,12 +4,34 @@
 - [Course Materials](#Class-Material)
 
 # Syllabus
+**MODULE-I** (Chapter 1 to 5 of Text Book 1 and for Stick Diagram Text Book 2)
+- **Introduction**: Historical Perspective, VLSI Design Methodologies, VLSI Design Flow,Design
+Hierarchy, Concept of Regularity, Modularity and Locality.
+- **Fabrication of MOSFETs**: Introduction, Fabrication Processes Flow – Basic Concepts,The
+CMOS n-Well Process, Layout Design Rules, Stick Diagrams, Full-Customs MaskLayout
+Design.
+- **MOS Transistor**: The Metal Oxide Semiconductor (MOS) Structure, The MOS System under
+External Bias, Structure and Operation of MOS Transistor (MOSFET), MOSFET CurrentVoltage Characteristics, MOSFET Scaling and Small-Geometry Effects, MOSFET Capacitance.
+- **MOS Inverters**: Static Characteristics: Introduction, Resistive-Load Inverters, Inverters
+with n-Type MOSFET Load, CMOS Inverter.
 
 # Literature Reference
-  - [Kang03] Kang & Leblebici, "CMOS DIgital Intgrated Circuits: Analysis and Design", McGraww Hill, 2nd Ed. , 2003
-  - [Weste11] Weste & Harris, "CMOS VLSI Design: A Circuits and Systems Perspective", Pearson 2011
+**Text Books**
+  - 1. [Kang03] Sung-Mo Kang and Yusuf Leblebici, CMOS Digital Integrated Circuits: Analysis and Design, 3rd Edn., Tata McGraw-Hill Publishing Company Limited, 2003
+  - 2. [Weste11] K. Eshraghian and N.H.E. Weste, Principles of CMOS VLSI Design – a Systems Perspective, 2nd Edn., Addison Wesley, 1993.
+  - 3. [Das10] Debaprasad Das, VLSI Design, Oxford University Press, New Delhi, 2010
   
+**Reference Books**
+- 1. [Wayne] Wayne Wolf, Modern VLSI Design System – on – Chip Design, 3rd Edn., PHI
+- 2. [Rabaey] Jan M. Rabaey, AnanthaChandrakasan, Borivoje Nikolic, Digital Integrated Circuits – A
+Design Perspective, 2nd Edn., PHI
+- 3. [Uyemura01] John P. Uyemura, CMOS Logic Circuit Design, Springer (Kluwer Academic Publishers),
+2001
+- 4. [Martin00] Ken Martin, Digital Integrated Circuit Design, Oxford University Press, 2000
+
 # Course Materials 
+## Introduction 
+- [Date] Topic / Slides/Vides/Notes
 
 * * *
 [Kang03]:       https://www.dropbox.com/s/50bgttdqbfbtgek/Kang-CMOS-DigitalICAnalysis%26Design-McGraw-2nd-2003.pdf
