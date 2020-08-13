@@ -3,7 +3,7 @@
     - [Cloning the Repo](#Cloning-the-Repository)
     - [Suggested Directory Structure](#Suggested-Directory-Structure)
 - [NGSpice](#NGSpice)
-    - [QuickStart Guide](#Quick Start Guide)
+    - [QuickStart Guide](#Quick-Start-Guide)
 - [CppSimLite](#CppSimLite)
     - [Sue2](#Sue2)
 - [Technology](#Technology)
