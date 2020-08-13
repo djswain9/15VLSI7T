@@ -11,8 +11,8 @@ export  SPICE_EXEC_DIR=$HOME/15VLSI7T/eda/ngspice-32/glnxa64/bin
 export PATH=$PATH:$SPICE_EXEC_DIR
 
 ## Environment variables for CppSimLite
-export CPPSIMHOME=$HOME/15VLSI17T/eda/CppSimLite
-export CPPSIMSHAREDHOME=$HOME/15VLSI17T/eda/CppSimLite/CppSimShared
+export CPPSIMHOME=$HOME/15VLSI7T/eda/CppSimLite
+export CPPSIMSHAREDHOME=$HOME/15VLSI7T/eda/CppSimLite/CppSimShared
 ### EDITOR is required to create or modify files from Sue2
 export EDITOR=/usr/bin/vim
 # Set the PATH for NGSpice and CppSimLite binaries
