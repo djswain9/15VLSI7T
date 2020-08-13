@@ -8,7 +8,6 @@ fi
 ## Environment variables for NGSpice
 export  SPICE_LIB_DIR=$HOME/15VLSI7T/eda/ngspice-32/glnxa64/share/ngspice
 export  SPICE_EXEC_DIR=$HOME/15VLSI7T/eda/ngspice-32/glnxa64/bin
-export PATH=$PATH:$SPICE_EXEC_DIR
 
 ## Environment variables for CppSimLite
 export CPPSIMHOME=$HOME/15VLSI7T/eda/CppSimLite
