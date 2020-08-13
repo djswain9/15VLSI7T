@@ -31,7 +31,7 @@ Design Perspective, 2nd Edn., PHI
 
 # Course Materials 
 ## Introduction 
-- [Date] Topic / Slides/Vides/Notes
+- [Date] Topic / Slides/Videos/Notes
 
 * * *
 [Kang03]:       https://www.dropbox.com/s/50bgttdqbfbtgek/Kang-CMOS-DigitalICAnalysis%26Design-McGraw-2nd-2003.pdf
