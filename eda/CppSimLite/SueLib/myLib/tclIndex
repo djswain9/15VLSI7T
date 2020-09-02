@@ -6,6 +6,12 @@
 # element name is the name of a command and the value is
 # a script that loads the command.
 
+set auto_index(SCHEMATIC_case1_inv_rt_ft_d) [list source [file join $dir case1_inv_rt_ft_d.sue]]
+set auto_index(SCHEMATIC_case1_inverter) [list source [file join $dir case1_inverter.sue]]
+set auto_index(SCHEMATIC_case2_actual_pmos) [list source [file join $dir case2_actual_pmos.sue]]
+set auto_index(SCHEMATIC_case3_betaratio) [list source [file join $dir case3_betaratio.sue]]
 set auto_index(SCHEMATIC_invX1) [list source [file join $dir invX1.sue]]
 set auto_index(SCHEMATIC_invX1_hspc) [list source [file join $dir invX1_hspc.sue]]
 set auto_index(SCHEMATIC_test) [list source [file join $dir test.sue]]
+set auto_index(SCHEMATIC_vt_nmos) [list source [file join $dir vt_nmos.sue]]
+set auto_index(SCHEMATIC_vt_pmos) [list source [file join $dir vt_pmos.sue]]
