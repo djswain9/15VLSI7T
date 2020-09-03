@@ -30,8 +30,7 @@ Design Perspective, 2nd Edn., PHI
 - 4. [Martin00] Ken Martin, Digital Integrated Circuit Design, Oxford University Press, 2000
 
 # Course Materials 
-## Introduction 
-- [Date] Topic / Slides/Videos/Notes
+## Slides/Notes
 - [20/07/2020] **INTRODUCTION**
 - [21/07/2020] **INTRODUCTION TO VLSI DESIGN**
 - [22/07/2020] **Module-1-lecture1-HISTORY OF VLSI**
