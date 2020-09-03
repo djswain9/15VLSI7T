@@ -46,3 +46,12 @@ Design Perspective, 2nd Edn., PHI
 [Weste11]:      https://www.dropbox.com/s/ard8jntcpq1pt45/Weste-Harris-CMOS-VLSI-design-Pearson-4thEd-2011.pdf
 [Clein00]:      https://www.dropbox.com/s/xw2yi6khzm1jj5m/Clein-cmos-ic-layout-concepts-methodologies-and-tools-2000.pdf
 [20/07/2020]:   https://www.dropbox.com/s/mu4fs65j3ceway1/2020-0720-15VLSI7T-Introduction.pdf
+[21/07/2020]:   https://www.dropbox.com/s/uilc6kyxp7bkxol/2020-0721-15VLSI7T-Introduction-to-VLSI-Design.pdf
+[22/07/2020]:   https://www.dropbox.com/s/n7j9bo3hnnm29xb/2020-0721-15VLSI7T-Module1-Lecture1-History-of-VLSI.pdf
+[27/07/2020]:   https://www.dropbox.com/s/9t98ds4sgqe2i6j/2020-0727-15VLSI7T-Module4-Lecture1-VLSI-Design-Style.pdf
+[28/07/2020]:   https://www.dropbox.com/s/cgp9dgpaib12ozk/2020-0728-15VLSI7T-Module1-Lecture2-Fabrication-of-MOSFET.pdf
+[29/07/2020]:   https://www.dropbox.com/s/lhjo31l4473t56a/2020-0729-15VLSI7T-Module1-Lecture3-Fabrication-of-MOSFET.pdf
+[03/08/2020]:   https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf
+[05/08/2020]:   https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf
+
+
