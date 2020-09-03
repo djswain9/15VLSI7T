@@ -61,5 +61,11 @@ Design Perspective, 2nd Edn., PHI
 [03/08/2020]:   https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf
 [05/08/2020]:   https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf
 [10/08/2020]:   https://www.dropbox.com/s/xcipyfkiis1fbo5/2020-0810-15VLSI7T-Module1-Lecture7-8-MOS-Transistor.pdf
+[https://www.dropbox.com/s/23z0n3p068hkgul/2020-0817-15VLSI7T-Module1-Lecture9-10-MOSFET.pdf]: 17/08/2020-MOSFET
+[https://www.dropbox.com/s/mqzd1o6u5y8qprn/2020-0818-15VLSI7T-Module1-Lecture11-12-MOSFET.pdf]:  18/08/2020-MOSFET_continued..
+[https://www.dropbox.com/s/xxci3s9zu62b042/2020-0819-15VLSI7T-Module1-Lecture13-MOSFET-Capacitance.pdf]:  19/09/2020-MOSFET_capacitances
+[https://www.dropbox.com/s/6bosq72c78s964j/2020-0824-15VLSI7T-Module1-Lecture14-15-Inverter-Static.pdf]:  24/08/2020-STATIC_inverter_char.
+[https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf]: 31/08/2020-SWITCHING_inverter_char.
+[https://www.dropbox.com/s/yasjc7athn4gggx/2020-0901-15VLSI7T-Module1-Lecture18-19-Dynamic-Power.pdf]: 01/09/2020-DYNAMIC_POWER
 
 
