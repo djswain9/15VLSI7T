@@ -40,6 +40,13 @@ Design Perspective, 2nd Edn., PHI
 - [03/08/2020] **Module-1-lecture4-5-MOS TRANSISTOR**
 - [05/08/2020] **Module-1-lecture6-MOS TRANSISTOR**
 - [10/08/2020] **Module-1-lecture7-8-MOS TRANSISTOR**
+- [17/08/2020] **Module-1-lecture9-10-MOSFET**
+- [18/08/2020] **Module-1-lecture11-12-MOSFET**
+- [19/08/2020] **Module-1-lecture 13 -MOSFET CAPACITANCE**
+- [24/08/2020] **Module-1-lecture 14-15-INVERTER-STATIC-CHARACTERISTICS**
+- [31/08/2020] **Module-1-lecture 16-17-INVERTER-SWITCHING-CHARACTERISTICS**
+- [01/09/2020] **Module-1-lecture 18-19-DYNAMIC POWER**
+
 * * *
 [Kang03]:       https://www.dropbox.com/s/50bgttdqbfbtgek/Kang-CMOS-DigitalICAnalysis%26Design-McGraw-2nd-2003.pdf
 [Weste11]:      https://www.dropbox.com/s/ard8jntcpq1pt45/Weste-Harris-CMOS-VLSI-design-Pearson-4thEd-2011.pdf
