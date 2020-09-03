@@ -32,8 +32,17 @@ Design Perspective, 2nd Edn., PHI
 # Course Materials 
 ## Introduction 
 - [Date] Topic / Slides/Videos/Notes
-
+- [20/07/2020] **INTRODUCTION**
+- [21/07/2020] **INTRODUCTION TO VLSI DESIGN**
+- [22/07/2020] **Module-1-lecture1-HISTORY OF VLSI**
+- [27/07/2020] **Module-4-lecture1-VLSI DESIGN STYLE**
+- [28/07/2020] **Module-1-lecture2-FABRICATION OF MOSFET-1**
+- [29/07/2020] **Module-1-lecture3-FABRICATION OF MOSFET-2**
+- [03/08/2020] **Module-1-lecture4-5-MOS TRANSISTOR**
+- [05/08/2020] **Module-1-lecture6-MOS TRANSISTOR**
+- [10/08/2020] **Module-1-lecture7-8-MOS TRANSISTOR**
 * * *
 [Kang03]:       https://www.dropbox.com/s/50bgttdqbfbtgek/Kang-CMOS-DigitalICAnalysis%26Design-McGraw-2nd-2003.pdf
 [Weste11]:      https://www.dropbox.com/s/ard8jntcpq1pt45/Weste-Harris-CMOS-VLSI-design-Pearson-4thEd-2011.pdf
 [Clein00]:      https://www.dropbox.com/s/xw2yi6khzm1jj5m/Clein-cmos-ic-layout-concepts-methodologies-and-tools-2000.pdf
+[20/07/2020]:   https://www.dropbox.com/s/mu4fs65j3ceway1/2020-0720-15VLSI7T-Introduction.pdf
