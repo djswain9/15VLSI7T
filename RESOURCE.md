@@ -53,5 +53,6 @@ Design Perspective, 2nd Edn., PHI
 [29/07/2020]:   https://www.dropbox.com/s/lhjo31l4473t56a/2020-0729-15VLSI7T-Module1-Lecture3-Fabrication-of-MOSFET.pdf
 [03/08/2020]:   https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf
 [05/08/2020]:   https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf
+[10/08/2020]:   https://www.dropbox.com/s/xcipyfkiis1fbo5/2020-0810-15VLSI7T-Module1-Lecture7-8-MOS-Transistor.pdf
 
 
