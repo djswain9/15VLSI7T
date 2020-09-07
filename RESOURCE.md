@@ -38,6 +38,7 @@ Design Perspective, 2nd Edn., PHI
 - [27/07/2020] **Module-4-lecture1-VLSI DESIGN STYLE**
 - **FABRICATION OF MOSFETS**
   - 28/07/2020 Fabrication of MOSFET-1 [Notes](https://www.dropbox.com/s/cgp9dgpaib12ozk/2020-0728-15VLSI7T-Module1-Lecture2-Fabrication-of-MOSFET.pdf)
+  - 29/07/2020 Fabrication of MOSFET-2 [Notes](https://www.dropbox.com/s/lhjo31l4473t56a/2020-0729-15VLSI7T-Module1-Lecture3-Fabrication-of-MOSFET.pdf)
 - [29/07/2020] **Module-1-lecture3-FABRICATION OF MOSFET-2**
 - [03/08/2020] **Module-1-lecture4-5-MOS TRANSISTOR**
 - [05/08/2020] **Module-1-lecture6-MOS TRANSISTOR**
