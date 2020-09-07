@@ -15,6 +15,16 @@ External Bias, Structure and Operation of MOS Transistor (MOSFET), MOSFET Curren
 - **MOS Inverters**: Static Characteristics: Introduction, Resistive-Load Inverters, Inverters
 with n-Type MOSFET Load, CMOS Inverter.
 
+**MODULE-II** (Chapter 6 to 8 of Text Book 1([Kang03]))
+- **MOS Inverters - Switching Characteristics and Interconnect Effects**: Introduction, Delay-Time Definition, Calculation of Delay-Times, Inverter Design with Delay Constraints, Switching Power Dissipation of CMOS Inverters.
+- **Combinational MOS Logic Circuits**: Introduction, MOS Logic Circuit with Depletion NMOD Loads, CMOS Logic Circuits, Complex Logic Circuits, CMOS Transmission Gates (Pass Gates).
+- **Sequential MOS Logic Circuits**: Introduction, Behaviour of Bistable elements, SR Latch Circuits, Clocked Latch and Flip-Flop Circuits, CMOS D-Latch and Edge-Triggerd Flip Flop.
+
+**MODULE-III** (Chapter, 9 to 11 and 15 of Text Book 1)
+- **Dynamic Logic Circuits**: Introduction, Basic Principle of Pass Transistor Circuits, Voltage Bootstrapping, Synchronous Dynamic Circuit Techniques, Dynamic CMOS Circuit Techniques, High Performance Dynamic CMOS Circuits
+- **Semiconductor Memories**: Introduction, Dynamic Random Access Memory (DRAM), Static Random Access Memory (SRAM), Non-volatile Memory, Flash Memory.
+- **Design for Testability**: Introduction, Fault Types and Models, Ad Hoc Testable Design Techniquues, Scan-Based Techniques, Built-In Self-Test (BIST) Techniques.
+
 # Literature Reference
 **Text Books**
   - 1. [Kang03] Sung-Mo Kang and Yusuf Leblebici, CMOS Digital Integrated Circuits: Analysis and Design, 3rd Edn., Tata McGraw-Hill Publishing Company Limited, 2003
