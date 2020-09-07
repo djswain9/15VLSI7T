@@ -34,8 +34,8 @@ Design Perspective, 2nd Edn., PHI
 - **INTRODUCTION**
   - 20/07/2020  Introduction [Notes](https://www.dropbox.com/s/mu4fs65j3ceway1/2020-0720-15VLSI7T-Introduction.pdf)
   - 21/07/2020 Introduction VLSI Design [Notes](https://www.dropbox.com/s/uilc6kyxp7bkxol/2020-0721-15VLSI7T-Introduction-to-VLSI-Design.pdf)
-- [22/07/2020] **Module-1-lecture1-HISTORY OF VLSI**
-- [27/07/2020] **Module-4-lecture1-VLSI DESIGN STYLE**
+  - 22/07/2020 History of VLSI [Notes](https://www.dropbox.com/s/n7j9bo3hnnm29xb/2020-0721-15VLSI7T-Module1-Lecture1-History-of-VLSI.pdf)
+  - 27/07/2020 VLSI Design Style [Notes](https://www.dropbox.com/s/9t98ds4sgqe2i6j/2020-0727-15VLSI7T-Module4-Lecture1-VLSI-Design-Style.pdf)
 - **FABRICATION OF MOSFETS**
   - 28/07/2020 Fabrication of MOSFET-1 [Notes](https://www.dropbox.com/s/cgp9dgpaib12ozk/2020-0728-15VLSI7T-Module1-Lecture2-Fabrication-of-MOSFET.pdf)
   - 29/07/2020 Fabrication of MOSFET-2 [Notes](https://www.dropbox.com/s/lhjo31l4473t56a/2020-0729-15VLSI7T-Module1-Lecture3-Fabrication-of-MOSFET.pdf)
@@ -58,23 +58,4 @@ Design Perspective, 2nd Edn., PHI
 [Kang03]:       https://www.dropbox.com/s/50bgttdqbfbtgek/Kang-CMOS-DigitalICAnalysis%26Design-McGraw-2nd-2003.pdf
 [Weste11]:      https://www.dropbox.com/s/ard8jntcpq1pt45/Weste-Harris-CMOS-VLSI-design-Pearson-4thEd-2011.pdf
 [Clein00]:      https://www.dropbox.com/s/xw2yi6khzm1jj5m/Clein-cmos-ic-layout-concepts-methodologies-and-tools-2000.pdf
-
-
-
-
-[29/07/2020]:   https://www.dropbox.com/s/lhjo31l4473t56a/2020-0729-15VLSI7T-Module1-Lecture3-Fabrication-of-MOSFET.pdf
-
-[03/08/2020]:   https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf
-[05/08/2020]:   https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf
-[10/08/2020]:   https://www.dropbox.com/s/xcipyfkiis1fbo5/2020-0810-15VLSI7T-Module1-Lecture7-8-MOS-Transistor.pdf
-
-[17/08/2020]: https://www.dropbox.com/s/23z0n3p068hkgul/2020-0817-15VLSI7T-Module1-Lecture9-10-MOSFET.pdf
-[18/08/2020]:  https://www.dropbox.com/s/mqzd1o6u5y8qprn/2020-0818-15VLSI7T-Module1-Lecture11-12-MOSFET.pdf
-
-[19/08/2020]:  https://www.dropbox.com/s/xxci3s9zu62b042/2020-0819-15VLSI7T-Module1-Lecture13-MOSFET-Capacitance.pdf
-[24/08/2020]: https://www.dropbox.com/s/6bosq72c78s964j/2020-0824-15VLSI7T-Module1-Lecture14-15-Inverter-Static.pdf 
-
-[31/08/2020]: https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf
-[01/09/2020]: https://www.dropbox.com/s/yasjc7athn4gggx/2020-0901-15VLSI7T-Module1-Lecture18-19-Dynamic-Power.pdf
-
 
