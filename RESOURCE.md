@@ -48,19 +48,19 @@ Design Perspective, 2nd Edn., PHI
   - 19/08/2020 MOSFET Capacitance [Notes](https://www.dropbox.com/s/xxci3s9zu62b042/2020-0819-15VLSI7T-Module1-Lecture13-MOSFET-Capacitance.pdf)
 - **MOS Inverters**
   - 24/08/2020 Static Characteristics [Notes](https://www.dropbox.com/s/6bosq72c78s964j/2020-0824-15VLSI7T-Module1-Lecture14-15-Inverter-Static.pdf)
-  - 31/08/2020 Switching Characteristics [Notes](https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf)
-  - 
-- [24/08/2020] **Module-1-lecture 14-15-INVERTER-STATIC-CHARACTERISTICS**
-- [31/08/2020] **Module-1-lecture 16-17-INVERTER-SWITCHING-CHARACTERISTICS**
-- [01/09/2020] **Module-1-lecture 18-19-DYNAMIC POWER**
+  - 31/08/2020 Switching Characteristics and Delay Calculation [Notes](https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf)
+  - 01/09/2020 Static and Dynamic Power Dissipation [Notes](https://www.dropbox.com/s/yasjc7athn4gggx/2020-0901-15VLSI7T-Module1-Lecture18-19-Dynamic-Power.pdf)
+- **Combinational MOS Logic Circuits**
+  - 07/09/2020 CMOS Logic Circuits, Complex Logic Circuits [Notes](https://www.dropbox.com/s/tpdidw4rtuvk9f4/2020-0907-15VLSI7T-Module2-Lecture20-21-Combinational-Logic.pdf)
+
 
 * * *
 [Kang03]:       https://www.dropbox.com/s/50bgttdqbfbtgek/Kang-CMOS-DigitalICAnalysis%26Design-McGraw-2nd-2003.pdf
 [Weste11]:      https://www.dropbox.com/s/ard8jntcpq1pt45/Weste-Harris-CMOS-VLSI-design-Pearson-4thEd-2011.pdf
 [Clein00]:      https://www.dropbox.com/s/xw2yi6khzm1jj5m/Clein-cmos-ic-layout-concepts-methodologies-and-tools-2000.pdf
 
-[22/07/2020]:   https://www.dropbox.com/s/n7j9bo3hnnm29xb/2020-0721-15VLSI7T-Module1-Lecture1-History-of-VLSI.pdf
-[27/07/2020]:   https://www.dropbox.com/s/9t98ds4sgqe2i6j/2020-0727-15VLSI7T-Module4-Lecture1-VLSI-Design-Style.pdf
+
+
 
 [29/07/2020]:   https://www.dropbox.com/s/lhjo31l4473t56a/2020-0729-15VLSI7T-Module1-Lecture3-Fabrication-of-MOSFET.pdf
 
