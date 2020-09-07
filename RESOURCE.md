@@ -39,13 +39,17 @@ Design Perspective, 2nd Edn., PHI
 - **FABRICATION OF MOSFETS**
   - 28/07/2020 Fabrication of MOSFET-1 [Notes](https://www.dropbox.com/s/cgp9dgpaib12ozk/2020-0728-15VLSI7T-Module1-Lecture2-Fabrication-of-MOSFET.pdf)
   - 29/07/2020 Fabrication of MOSFET-2 [Notes](https://www.dropbox.com/s/lhjo31l4473t56a/2020-0729-15VLSI7T-Module1-Lecture3-Fabrication-of-MOSFET.pdf)
-- [29/07/2020] **Module-1-lecture3-FABRICATION OF MOSFET-2**
-- [03/08/2020] **Module-1-lecture4-5-MOS TRANSISTOR**
-- [05/08/2020] **Module-1-lecture6-MOS TRANSISTOR**
-- [10/08/2020] **Module-1-lecture7-8-MOS TRANSISTOR**
-- [17/08/2020] **Module-1-lecture9-10-MOSFET**
-- [18/08/2020] **Module-1-lecture11-12-MOSFET**
-- [19/08/2020] **Module-1-lecture 13 -MOSFET CAPACITANCE**
+- **MOS TRANSISTOR**
+  - 03/08/2020 Metal-Oxide-Semiconductor Stucture-1 [Notes](https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf)
+  - 05/08/2020 Metal-Oxide-Semiconductor Stucture-2 [Notes](https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf)
+  - 10/08/2020 Metal-Oxide-Semiconductor Stucture-3 [Notes](https://www.dropbox.com/s/xcipyfkiis1fbo5/2020-0810-15VLSI7T-Module1-Lecture7-8-MOS-Transistor.pdf)
+  - 17/08/2020 Metal Oxide Semiconductor Field Effect Transistor-1 [Notes](https://www.dropbox.com/s/23z0n3p068hkgul/2020-0817-15VLSI7T-Module1-Lecture9-10-MOSFET.pdf)
+  - 18/08/2020 Metal Oxide Semiconductor Field Effect Transistor-2 [Notes](https://www.dropbox.com/s/mqzd1o6u5y8qprn/2020-0818-15VLSI7T-Module1-Lecture11-12-MOSFET.pdf)
+  - 19/08/2020 MOSFET Capacitance [Notes](https://www.dropbox.com/s/xxci3s9zu62b042/2020-0819-15VLSI7T-Module1-Lecture13-MOSFET-Capacitance.pdf)
+- **MOS Inverters**
+  - 24/08/2020 Static Characteristics [Notes](https://www.dropbox.com/s/6bosq72c78s964j/2020-0824-15VLSI7T-Module1-Lecture14-15-Inverter-Static.pdf)
+  - 31/08/2020 Switching Characteristics [Notes](https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf)
+  - 
 - [24/08/2020] **Module-1-lecture 14-15-INVERTER-STATIC-CHARACTERISTICS**
 - [31/08/2020] **Module-1-lecture 16-17-INVERTER-SWITCHING-CHARACTERISTICS**
 - [01/09/2020] **Module-1-lecture 18-19-DYNAMIC POWER**
