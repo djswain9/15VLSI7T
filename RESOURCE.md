@@ -63,6 +63,8 @@ Design Perspective, 2nd Edn., PHI
 - **Combinational MOS Logic Circuits**
   - 07/09/2020 CMOS Logic Circuits, Complex Logic Circuits [Notes](https://www.dropbox.com/s/tpdidw4rtuvk9f4/2020-0907-15VLSI7T-Module2-Lecture20-21-Combinational-Logic.pdf)
   - 08/09/2020 CMOS Transmission Gate [Notes](https://www.dropbox.com/s/8xkxupbchyv9m9s/2020-0908-15VLSI7T-Module2-Lecture22-23-Transmission-Gate.pdf)
+- **Sequential MOS Logic Circuits**
+  
   
 
 
