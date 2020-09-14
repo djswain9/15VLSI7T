@@ -60,6 +60,7 @@ Design Perspective, 2nd Edn., PHI
   - 24/08/2020 Static Characteristics [Notes](https://www.dropbox.com/s/6bosq72c78s964j/2020-0824-15VLSI7T-Module1-Lecture14-15-Inverter-Static.pdf)
   - 31/08/2020 Switching Characteristics and Delay Calculation [Notes](https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf)
   - 01/09/2020 Static and Dynamic Power Dissipation [Notes](https://www.dropbox.com/s/yasjc7athn4gggx/2020-0901-15VLSI7T-Module1-Lecture18-19-Dynamic-Power.pdf)
+  - 14/09/2020 Interconnect Parasitics [Notes](https://www.dropbox.com/s/1vicae5kih5flm0/2020-0914-15VLSI7T-Module4-Lecture3-Interconnect-Parasitics.pdf)
 - **Combinational MOS Logic Circuits**
   - 07/09/2020 CMOS Logic Circuits, Complex Logic Circuits [Notes](https://www.dropbox.com/s/tpdidw4rtuvk9f4/2020-0907-15VLSI7T-Module2-Lecture20-21-Combinational-Logic.pdf)
   - 08/09/2020 CMOS Transmission Gate [Notes](https://www.dropbox.com/s/8xkxupbchyv9m9s/2020-0908-15VLSI7T-Module2-Lecture22-23-Transmission-Gate.pdf)
