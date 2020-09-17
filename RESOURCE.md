@@ -27,6 +27,11 @@ with n-Type MOSFET Load, CMOS Inverter.
 - **Semiconductor Memories**: Introduction, Dynamic Random Access Memory (DRAM), Static Random Access Memory (SRAM), Non-volatile Memory, Flash Memory.
 - **Design for Testability**: Introduction, Fault Types and Models, Ad Hoc Testable Design Techniquues, Scan-Based Techniques, Built-In Self-Test (BIST) Techniques.
 
+**MODULE-IV: 20% Institution Level** (Advanced topics)
+- **Adavnce VLSI Design**: VLSI Design Styles, Computer-Aided Design Technologie, The CMOS P-Well Process
+- **Modelling of MOS Transistor using SPICE**: Basic Concepts, The LEVEL 1 Modelling Equations, LEVEL 2 Model Equations, LEVEL 3 Model Equations.
+- **Low Power CMOS Logic Circuits**: Estimation of Interconnect Parasitics, Calculation of Interconnect Delay of CMOS, Overview of Power Consumption, Low power Design through Voltage Scaling, Estimation and Optimization of Switching Activity, Reduction of Switchrd capacitance.
+
 # Literature Reference
 **Text Books**
   - 1. [Kang03] Sung-Mo Kang and Yusuf Leblebici, CMOS Digital Integrated Circuits: Analysis and Design, 3rd Edn., Tata McGraw-Hill Publishing Company Limited, 2003
