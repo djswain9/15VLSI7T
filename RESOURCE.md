@@ -1,7 +1,7 @@
 # Table of Contents
 - [Syllabus](#Syllabus)
 - [Literature Reference](#Literature-Reference)
-- [Open_Source_EDA_Setup](#Open-Source-EDA-Setup)
+- [Open Source EDA Setup](#Open-Source-EDA-Setup)
 - [Course Materials](#Class-Material)
 
 
