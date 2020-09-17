@@ -1,7 +1,9 @@
 # Table of Contents
 - [Syllabus](#Syllabus)
 - [Literature Reference](#Literature-Reference)
+- [Open_Source_EDA_Setup](#Open-Source-EDA-Setup)
 - [Course Materials](#Class-Material)
+
 
 # Syllabus
 **MODULE-I** (Chapter 1 to 5 of Text Book 1([Kang03]) and for Stick Diagram Text Book 2 ([Weste11]) )
@@ -39,6 +41,10 @@ Design Perspective, 2nd Edn., PHI
 2001
 - 4. [Martin00] Ken Martin, Digital Integrated Circuit Design, Oxford University Press, 2000
 
+# Open Source EDA Setup
+**LXLE-LINUX**
+- Open source EDA setup: lxle linux in Virtual machine [link](https://www.dropbox.com/s/2lovix0ntsw8yfw/2020-0917-Open%20Source%20EDA%20Setup.pdf)
+
 # Course Materials 
 ## Slides/Notes
 - **Introduction**
@@ -68,7 +74,7 @@ Design Perspective, 2nd Edn., PHI
   - 09/09/2020 Pseudo NMOS Logic [Notes](https://www.dropbox.com/s/d0fsj5oyyjygusu/2020-0909-15VLSI7T-Module2-Lecture24-Pseudo-NMOS-Logic.pdf)
 - **Sequential MOS Logic Circuits**
   
-  
+
 
 
 * * *
