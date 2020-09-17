@@ -39,12 +39,12 @@ with n-Type MOSFET Load, CMOS Inverter.
   - 3. [Das10] Debaprasad Das, VLSI Design, Oxford University Press, New Delhi, 2010
   
 **Reference Books**
-- 1. [Wayne] Wayne Wolf, Modern VLSI Design System – on – Chip Design, 3rd Edn., PHI
-- 2. Ian M. Rabaey, AnanthaChandrakasan, Borivoje Nikolic, Digital Integrated Circuits – A
-Design Perspective, 2nd Edn., PHI [PDF](https://www.dropbox.com/s/wsdpplskgq0ezzo/Book-Digital%20Integrated%20Circuits%20%282nd%20Edition%29%20by%20Jan%20M.%20Rabaey.pdf)
-- 3. [Uyemura01] John P. Uyemura, CMOS Logic Circuit Design, Springer (Kluwer Academic Publishers),
+- [Wayne] Wayne Wolf, Modern VLSI Design System – on – Chip Design, 3rd Edn., PHI
+- Ian M. Rabaey, AnanthaChandrakasan, Borivoje Nikolic, Digital Integrated Circuits – A
+Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ezzo/Book-Digital%20Integrated%20Circuits%20%282nd%20Edition%29%20by%20Jan%20M.%20Rabaey.pdf)
+- John P. Uyemura, CMOS Logic Circuit Design, Springer (Kluwer Academic Publishers) [Link](https://www.dropbox.com/s/k7mgzlb6q8r74pm/Book-Circuit%20Design%20for%20CMOS%20VLSI%20by%20John%20P.%20Uyemura.pdf)
 2001
-- 4. [Martin00] Ken Martin, Digital Integrated Circuit Design, Oxford University Press, 2000
+- [Martin00] Ken Martin, Digital Integrated Circuit Design, Oxford University Press, 2000
 
 # Open Source EDA Setup
 **LXLE-LINUX**
