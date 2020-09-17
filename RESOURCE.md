@@ -43,7 +43,7 @@ Design Perspective, 2nd Edn., PHI
 
 # Open Source EDA Setup
 **LXLE-LINUX**
-- Open source EDA setup: lxle linux in Virtual machine [link](https://www.dropbox.com/s/2lovix0ntsw8yfw/2020-0917-Open%20Source%20EDA%20Setup.pdf)
+- Open source EDA setup: lxle linux in Virtual machine [Link](https://www.dropbox.com/s/2lovix0ntsw8yfw/2020-0917-Open%20Source%20EDA%20Setup.pdf)
 
 # Course Materials 
 ## Slides/Notes
