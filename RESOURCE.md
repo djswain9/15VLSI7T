@@ -77,7 +77,7 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 08/09/2020 CMOS Transmission Gate [Notes](https://www.dropbox.com/s/8xkxupbchyv9m9s/2020-0908-15VLSI7T-Module2-Lecture22-23-Transmission-Gate.pdf)
   - 09/09/2020 Pseudo NMOS Logic [Notes](https://www.dropbox.com/s/d0fsj5oyyjygusu/2020-0909-15VLSI7T-Module2-Lecture24-Pseudo-NMOS-Logic.pdf)
 - **Sequential MOS Logic Circuits**
-  
+  - 09/21/2020 Latch and Flip-Flop Circuits [Notes](https://www.dropbox.com/s/0q6lvah7bk2j11e/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits.pdf)
 
 
 
