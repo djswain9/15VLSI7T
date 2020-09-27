@@ -85,6 +85,9 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
 # Course Materials (Laboratary) 
 ## Experiment/SpiceNetlist
   - 23/09/2020 Design and Simulation of CMOS D-Latch [Reports](https://www.dropbox.com/s/wtxsf73gfdg308x/2020-0923-15VLSI7T-LAB-Exp_8-D-Latch.pdf)
+  - 23/09/2020 Design and Simulation of CMOS D-Flip-Flop [Reports](https://www.dropbox.com/s/4283x6xd7x5vkfh/2020-0923-15VLSI7T-LAB-Exp_8-D-Flip-Flop.pdf)
+  
+  
 * * *
 [Kang03]:       https://www.dropbox.com/s/50bgttdqbfbtgek/Kang-CMOS-DigitalICAnalysis%26Design-McGraw-2nd-2003.pdf
 [Weste11]:      https://www.dropbox.com/s/ard8jntcpq1pt45/Weste-Harris-CMOS-VLSI-design-Pearson-4thEd-2011.pdf
