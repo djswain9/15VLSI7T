@@ -49,7 +49,7 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
 **LXLE-LINUX**
 - Open source EDA setup: lxle linux in Virtual machine [Link](https://www.dropbox.com/s/2lovix0ntsw8yfw/2020-0917-Open%20Source%20EDA%20Setup.pdf)
 
-# Course Materials 
+# Course Materials (Theory) 
 ## Slides/Notes
 - **Introduction**
   - 20/07/2020  Introduction [Notes](https://www.dropbox.com/s/mu4fs65j3ceway1/2020-0720-15VLSI7T-Introduction.pdf) || [Video](https://drive.google.com/file/d/15y61s4mjEmrK6chJV2Iqnc0i-iI-o6UB/view?usp=sharing)
@@ -82,8 +82,9 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 22/09/2020 Setup, Hold and Propagation delay of D-FF [Notes](https://www.dropbox.com/s/xmpueuvrqmcsclv/2020-0922-15VLSI7T-Module2-Lecture30-31-Setup-Hold-Propagation-Delay-of-DFF.pdf)
 - **Dynamic Logic Circuits**
 
-
-
+# Course Materials (Laboratary) 
+## Experiment/SpiceNetlist
+  - 23/09/2020 Design and Simulation of CMOS D-Latch [Reports](https://www.dropbox.com/s/wtxsf73gfdg308x/2020-0923-15VLSI7T-LAB-Exp_8-D-Latch.pdf)
 * * *
 [Kang03]:       https://www.dropbox.com/s/50bgttdqbfbtgek/Kang-CMOS-DigitalICAnalysis%26Design-McGraw-2nd-2003.pdf
 [Weste11]:      https://www.dropbox.com/s/ard8jntcpq1pt45/Weste-Harris-CMOS-VLSI-design-Pearson-4thEd-2011.pdf
