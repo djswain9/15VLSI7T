@@ -84,7 +84,7 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
 
 # Course Materials (Laboratary) 
 ## Experiment/SpiceNetlist
-  - 29/07/2020 Open Source EDA Setup [Video](https://www.youtube.com/watch?v=xt_r3TMzsCg)
+  - 29/07/2020 Open Source EDA Setup [[Video]](https://www.youtube.com/watch?v=xt_r3TMzsCg)
   - 05/08/2020 Design and Simulation of RC Circuits using NGSpice [Video](https://www.youtube.com/watch?v=wQCPdbCgaME)
   - 12/08/2020 MOSFET Current-Voltage Characteristics [Video](https://www.youtube.com/watch?v=ZBNLN5PxwLg)
   - 19/08/2020 MOSFET Parameters Extraction using NGSpice [Video](https://www.youtube.com/watch?v=E5AnU98vG6I)
