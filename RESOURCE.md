@@ -3,14 +3,18 @@
 **INSTRUCTORS**
 - **Prof. Santunu Sarangi**
 - **Prof. Dr. Saroj Rout**
+
 **TEACHING ASSISTANTS**
 - **Pracheeta Mohapatar (7th sem, EIE)**
 - **Satabdi Panda (7th sem, EIE)**
-# Course Number
+
+**COURSE NUMBER**
 - **15VLSI7T**
-# As Taught in
+
+**AS TAUGHT IN**
 - **Autumn 2020**
-# Level
+
+**LEVEL**
 - **Undergraduate**
 
 # Table of Contents
