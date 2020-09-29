@@ -76,8 +76,8 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 22/07/2020 History of VLSI [[Notes]](https://www.dropbox.com/s/n7j9bo3hnnm29xb/2020-0721-15VLSI7T-Module1-Lecture1-History-of-VLSI.pdf) || [[Video]](https://www.youtube.com/watch?v=C8EE-eFKE6c)
   - 27/07/2020 VLSI Design Style [[Notes]](https://www.dropbox.com/s/9t98ds4sgqe2i6j/2020-0727-15VLSI7T-Module4-Lecture1-VLSI-Design-Style.pdf) || [[Video]](https://www.youtube.com/watch?v=xlG6puE9-4s)
 - **Fabrication of MOSFETs**
-  - 28/07/2020 Fabrication of MOSFET-1 [Notes](https://www.dropbox.com/s/cgp9dgpaib12ozk/2020-0728-15VLSI7T-Module1-Lecture2-Fabrication-of-MOSFET.pdf)
-  - 29/07/2020 Fabrication of MOSFET-2 [Notes](https://www.dropbox.com/s/lhjo31l4473t56a/2020-0729-15VLSI7T-Module1-Lecture3-Fabrication-of-MOSFET.pdf)
+  - 28/07/2020 Fabrication of MOSFET-1 [[Notes]](https://www.dropbox.com/s/cgp9dgpaib12ozk/2020-0728-15VLSI7T-Module1-Lecture2-Fabrication-of-MOSFET.pdf) || [[Video]](https://www.youtube.com/watch?v=O2JGMyYT8zY)
+  - 29/07/2020 Fabrication of MOSFET-2 [[Notes]](https://www.dropbox.com/s/lhjo31l4473t56a/2020-0729-15VLSI7T-Module1-Lecture3-Fabrication-of-MOSFET.pdf) || [[Viseo]](https://www.youtube.com/watch?v=O2JGMyYT8zY)
 - **MOS Transistor**
   - 03/08/2020 Metal-Oxide-Semiconductor Stucture-1 [Notes](https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf)
   - 05/08/2020 Metal-Oxide-Semiconductor Stucture-2 [Notes](https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf)
