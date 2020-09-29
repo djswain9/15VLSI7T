@@ -1,9 +1,9 @@
 # VLSI Design for Undergraduates
 
-# Instructors(s)
+**INSTRUCTORS**
 - **Prof. Santunu Sarangi**
 - **Prof. Dr. Saroj Rout**
-# Teaching Assistants
+**TEACHING ASSISTANTS**
 - **Pracheeta Mohapatar (7th sem, EIE)**
 - **Satabdi Panda (7th sem, EIE)**
 # Course Number
