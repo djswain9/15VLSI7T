@@ -1,3 +1,17 @@
+# VLSI Design for Undergraduates
+**Instructors(s)
+- **Prof. Santunu Sarangi
+- **Prof. Dr. Saroj Rout
+**Teaching Assistants
+- **Pracheeta Mohapatar (7th sem, EIE)
+- **Satabdi Panda (7th sem, EIE)
+**Course Number
+- **15VLSI7T
+**As Taught in
+- **Autumn 2020
+**Level
+- **Undergraduate
+
 # Table of Contents
 - [Syllabus](#Syllabus)
 - [Literature Reference](#Literature-Reference)
