@@ -88,6 +88,8 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 05/08/2020 Design and Simulation of RC Circuits using NGSpice [Video](https://www.youtube.com/watch?v=wQCPdbCgaME)
   - 12/08/2020 MOSFET Current-Voltage Characteristics [Video](https://www.youtube.com/watch?v=ZBNLN5PxwLg)
   - 19/08/2020 MOSFET Parameters Extraction using NGSpice [Video](https://www.youtube.com/watch?v=E5AnU98vG6I)
+  - 26/08/2020 Inverter static Characteristics [Video](https://www.youtube.com/watch?v=WZwLIKsjjnY)
+  
   - 23/09/2020 Design and Simulation of CMOS D-Latch [Reports](https://www.dropbox.com/s/wtxsf73gfdg308x/2020-0923-15VLSI7T-LAB-Exp_8-D-Latch.pdf)
   - 23/09/2020 Design and Simulation of CMOS D-Flip-Flop [Reports](https://www.dropbox.com/s/4283x6xd7x5vkfh/2020-0923-15VLSI7T-LAB-Exp_8-D-Flip-Flop.pdf)
   
