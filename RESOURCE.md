@@ -86,9 +86,9 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 18/08/2020 Metal Oxide Semiconductor Field Effect Transistor-2 [[Notes]](https://www.dropbox.com/s/mqzd1o6u5y8qprn/2020-0818-15VLSI7T-Module1-Lecture11-12-MOSFET.pdf) || [[Video]](https://www.youtube.com/watch?v=bPLzXzopsNo)
   - 19/08/2020 MOSFET Capacitance [[Notes]](https://www.dropbox.com/s/xxci3s9zu62b042/2020-0819-15VLSI7T-Module1-Lecture13-MOSFET-Capacitance.pdf) || [[Video]](https://www.youtube.com/watch?v=toIzPbxFwKE)
 - **MOS Inverters**
-  - 24/08/2020 Static Characteristics [Notes](https://www.dropbox.com/s/6bosq72c78s964j/2020-0824-15VLSI7T-Module1-Lecture14-15-Inverter-Static.pdf)
-  - 31/08/2020 Switching Characteristics and Delay Calculation [Notes](https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf)
-  - 01/09/2020 Static and Dynamic Power Dissipation [Notes](https://www.dropbox.com/s/yasjc7athn4gggx/2020-0901-15VLSI7T-Module1-Lecture18-19-Dynamic-Power.pdf)
+  - 24/08/2020 Static Characteristics [[Notes]](https://www.dropbox.com/s/6bosq72c78s964j/2020-0824-15VLSI7T-Module1-Lecture14-15-Inverter-Static.pdf) || [[Video]](https://www.youtube.com/watch?v=zXtUMSTi0KY)
+  - 31/08/2020 Switching Characteristics and Delay Calculation [[Notes]](https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf) || [[Video]](https://www.youtube.com/watch?v=U8spQ_6kLYE)
+  - 01/09/2020 Static and Dynamic Power Dissipation [[Notes]](https://www.dropbox.com/s/yasjc7athn4gggx/2020-0901-15VLSI7T-Module1-Lecture18-19-Dynamic-Power.pdf) || [[Video]](https://www.youtube.com/watch?v=IVuvTYa_SUE)
   - 14/09/2020 Interconnect Parasitics [Notes](https://www.dropbox.com/s/1vicae5kih5flm0/2020-0914-15VLSI7T-Module4-Lecture3-Interconnect-Parasitics.pdf)
   - 15/09/2020 Inverter Chain Design [Notes](https://www.dropbox.com/s/1in6ofch4lxt7zv/2020-0915-15VLSI7T-Module2-Lecture25-26-Inverter-Chain-Design.pdf)
 - **Combinational MOS Logic Circuits**
