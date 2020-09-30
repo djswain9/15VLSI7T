@@ -72,7 +72,7 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
 ## Slides/Notes
 - **Introduction**
   - 20/07/2020  Introduction [[Notes]](https://www.dropbox.com/s/mu4fs65j3ceway1/2020-0720-15VLSI7T-Introduction.pdf) || [[Video]](https://www.youtube.com/watch?v=HHlwbC_LZSw)
-  - 21/07/2020 Introduction VLSI Design [[Notes]](https://www.dropbox.com/s/uilc6kyxp7bkxol/2020-0721-15VLSI7T-Introduction-to-VLSI-Design.pdf) || [[Video]](https://drive.google.com/file/d/1C0TYIpUiZVv3htd0byO2WtxbbwKU3PX4/view?usp=sharing)
+  - 21/07/2020 Introduction VLSI Design [[Notes]](https://www.dropbox.com/s/uilc6kyxp7bkxol/2020-0721-15VLSI7T-Introduction-to-VLSI-Design.pdf) || [[Video]](https://www.youtube.com/watch?v=Co6oc8lB7YM&t=164s)
   - 22/07/2020 History of VLSI [[Notes]](https://www.dropbox.com/s/n7j9bo3hnnm29xb/2020-0721-15VLSI7T-Module1-Lecture1-History-of-VLSI.pdf) || [[Video]](https://www.youtube.com/watch?v=C8EE-eFKE6c)
   - 27/07/2020 VLSI Design Style [[Notes]](https://www.dropbox.com/s/9t98ds4sgqe2i6j/2020-0727-15VLSI7T-Module4-Lecture1-VLSI-Design-Style.pdf) || [[Video]](https://www.youtube.com/watch?v=xlG6puE9-4s)
 - **Fabrication of MOSFETs**
