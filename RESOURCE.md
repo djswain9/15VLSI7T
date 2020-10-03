@@ -96,9 +96,9 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 08/09/2020 CMOS Transmission Gate [[Notes]](https://www.dropbox.com/s/8xkxupbchyv9m9s/2020-0908-15VLSI7T-Module2-Lecture22-23-Transmission-Gate.pdf) || [[Video]](https://www.youtube.com/watch?v=yKiQru_JIpE&t=16s)
   - 09/09/2020 Pseudo NMOS Logic [[Notes]](https://www.dropbox.com/s/d0fsj5oyyjygusu/2020-0909-15VLSI7T-Module2-Lecture24-Pseudo-NMOS-Logic.pdf) || [[Video]](https://www.youtube.com/watch?v=Gi2ipFUubfs)
 - **Sequential MOS Logic Circuits**
-  - 21/09/2020 Latch and Flip-Flop Circuits [Notes](https://www.dropbox.com/s/0q6lvah7bk2j11e/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits.pdf)
+  - 21/09/2020 Latch and Flip-Flop Circuits [[Notes]](https://www.dropbox.com/s/0q6lvah7bk2j11e/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits.pdf) || [[Video]](https://www.youtube.com/watch?v=LHw9McKBRJI)
   - 21/09/2020 Sequential Logic Circuits [Slides](https://www.dropbox.com/s/uht871k7dje6hnj/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits-Slides%28Kang-Book%29.pdf)
-  - 22/09/2020 Setup, Hold and Propagation delay of D-FF [Notes](https://www.dropbox.com/s/xmpueuvrqmcsclv/2020-0922-15VLSI7T-Module2-Lecture30-31-Setup-Hold-Propagation-Delay-of-DFF.pdf)
+  - 22/09/2020 Setup, Hold and Propagation delay of D-FF [[Notes]](https://www.dropbox.com/s/xmpueuvrqmcsclv/2020-0922-15VLSI7T-Module2-Lecture30-31-Setup-Hold-Propagation-Delay-of-DFF.pdf) || [[Video]](https://www.youtube.com/watch?v=5Ofx-QubGts)
 - **Dynamic Logic Circuits**
 
 # Course Materials (Laboratary) 
