@@ -89,12 +89,12 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 24/08/2020 Static Characteristics [[Notes]](https://www.dropbox.com/s/6bosq72c78s964j/2020-0824-15VLSI7T-Module1-Lecture14-15-Inverter-Static.pdf) || [[Video]](https://www.youtube.com/watch?v=zXtUMSTi0KY)
   - 31/08/2020 Switching Characteristics and Delay Calculation [[Notes]](https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf) || [[Video]](https://www.youtube.com/watch?v=U8spQ_6kLYE)
   - 01/09/2020 Static and Dynamic Power Dissipation [[Notes]](https://www.dropbox.com/s/yasjc7athn4gggx/2020-0901-15VLSI7T-Module1-Lecture18-19-Dynamic-Power.pdf) || [[Video]](https://www.youtube.com/watch?v=IVuvTYa_SUE)
-  - 14/09/2020 Interconnect Parasitics [Notes](https://www.dropbox.com/s/1vicae5kih5flm0/2020-0914-15VLSI7T-Module4-Lecture3-Interconnect-Parasitics.pdf)
-  - 15/09/2020 Inverter Chain Design [Notes](https://www.dropbox.com/s/1in6ofch4lxt7zv/2020-0915-15VLSI7T-Module2-Lecture25-26-Inverter-Chain-Design.pdf)
+  - 14/09/2020 Interconnect Parasitics [[Notes]](https://www.dropbox.com/s/1vicae5kih5flm0/2020-0914-15VLSI7T-Module4-Lecture3-Interconnect-Parasitics.pdf) || [[Video]](https://www.youtube.com/watch?v=uQoivq7c5ZQ)
+  - 15/09/2020 Inverter Chain Design [[Notes]](https://www.dropbox.com/s/1in6ofch4lxt7zv/2020-0915-15VLSI7T-Module2-Lecture25-26-Inverter-Chain-Design.pdf) || [[Video]](https://www.youtube.com/watch?v=uQoivq7c5ZQ)
 - **Combinational MOS Logic Circuits**
-  - 07/09/2020 CMOS Logic Circuits, Complex Logic Circuits [Notes](https://www.dropbox.com/s/tpdidw4rtuvk9f4/2020-0907-15VLSI7T-Module2-Lecture20-21-Combinational-Logic.pdf)
-  - 08/09/2020 CMOS Transmission Gate [Notes](https://www.dropbox.com/s/8xkxupbchyv9m9s/2020-0908-15VLSI7T-Module2-Lecture22-23-Transmission-Gate.pdf)
-  - 09/09/2020 Pseudo NMOS Logic [Notes](https://www.dropbox.com/s/d0fsj5oyyjygusu/2020-0909-15VLSI7T-Module2-Lecture24-Pseudo-NMOS-Logic.pdf)
+  - 07/09/2020 CMOS Logic Circuits, Complex Logic Circuits [[Notes]](https://www.dropbox.com/s/tpdidw4rtuvk9f4/2020-0907-15VLSI7T-Module2-Lecture20-21-Combinational-Logic.pdf) || [[Video]](https://www.youtube.com/watch?v=uQoivq7c5ZQ)
+  - 08/09/2020 CMOS Transmission Gate [[Notes]](https://www.dropbox.com/s/8xkxupbchyv9m9s/2020-0908-15VLSI7T-Module2-Lecture22-23-Transmission-Gate.pdf) || [[Video]](https://www.youtube.com/watch?v=yKiQru_JIpE&t=16s)
+  - 09/09/2020 Pseudo NMOS Logic [[Notes]](https://www.dropbox.com/s/d0fsj5oyyjygusu/2020-0909-15VLSI7T-Module2-Lecture24-Pseudo-NMOS-Logic.pdf) || [[Video]](https://www.youtube.com/watch?v=Gi2ipFUubfs)
 - **Sequential MOS Logic Circuits**
   - 21/09/2020 Latch and Flip-Flop Circuits [Notes](https://www.dropbox.com/s/0q6lvah7bk2j11e/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits.pdf)
   - 21/09/2020 Sequential Logic Circuits [Slides](https://www.dropbox.com/s/uht871k7dje6hnj/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits-Slides%28Kang-Book%29.pdf)
