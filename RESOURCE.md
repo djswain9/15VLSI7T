@@ -97,7 +97,7 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 09/09/2020 Pseudo NMOS Logic [[Notes]](https://www.dropbox.com/s/d0fsj5oyyjygusu/2020-0909-15VLSI7T-Module2-Lecture24-Pseudo-NMOS-Logic.pdf) || [[Video]](https://www.youtube.com/watch?v=Gi2ipFUubfs)
 - **Sequential MOS Logic Circuits**
   - 21/09/2020 Latch and Flip-Flop Circuits [[Notes]](https://www.dropbox.com/s/0q6lvah7bk2j11e/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits.pdf) || [[Video]](https://www.youtube.com/watch?v=LHw9McKBRJI)
-  - 21/09/2020 Sequential Logic Circuits [Slides](https://www.dropbox.com/s/uht871k7dje6hnj/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits-Slides%28Kang-Book%29.pdf)
+  - 21/09/2020 Sequential Logic Circuits [[Slides]](https://www.dropbox.com/s/uht871k7dje6hnj/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits-Slides%28Kang-Book%29.pdf) || [[Video]](https://www.youtube.com/watch?v=ETCqIvNYOpk)
   - 22/09/2020 Setup, Hold and Propagation delay of D-FF [[Notes]](https://www.dropbox.com/s/xmpueuvrqmcsclv/2020-0922-15VLSI7T-Module2-Lecture30-31-Setup-Hold-Propagation-Delay-of-DFF.pdf) || [[Video]](https://www.youtube.com/watch?v=5Ofx-QubGts)
 - **Dynamic Logic Circuits**
 
@@ -106,6 +106,7 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 29/07/2020 Open Source EDA Setup [[Video]](https://www.youtube.com/watch?v=xt_r3TMzsCg)
   - 05/08/2020 Design and Simulation of RC Circuits using NGSpice [[Video]](https://www.youtube.com/watch?v=wQCPdbCgaME)
   - 12/08/2020 MOSFET Current-Voltage Characteristics [[Video]](https://www.youtube.com/watch?v=ZBNLN5PxwLg)
+  - 13/08/2020 Demo on Schematic Editor SUE2 [[Video]](https://www.youtube.com/watch?v=QLXgcz5F3JU)
   - 19/08/2020 MOSFET Parameters Extraction using NGSpice [[Video]](https://www.youtube.com/watch?v=E5AnU98vG6I)
   - 26/08/2020 Inverter static Characteristics [[Video]](https://www.youtube.com/watch?v=WZwLIKsjjnY)
   - 02/09/2020 Inverter Dynamic Characteristics [[Video]](https://www.youtube.com/watch?v=bXUE3lW76nQ)
