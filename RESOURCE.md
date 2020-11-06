@@ -100,9 +100,9 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 21/09/2020 Sequential Logic Circuits [[Slides]](https://www.dropbox.com/s/uht871k7dje6hnj/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits-Slides%28Kang-Book%29.pdf) || [[Video]](https://www.youtube.com/watch?v=ETCqIvNYOpk)
   - 22/09/2020 Setup, Hold and Propagation delay of D-FF [[Notes]](https://www.dropbox.com/s/xmpueuvrqmcsclv/2020-0922-15VLSI7T-Module2-Lecture30-31-Setup-Hold-Propagation-Delay-of-DFF.pdf) || [[Video]](https://www.youtube.com/watch?v=5Ofx-QubGts)
 - **Dynamic Logic Circuits**
-  - 02/11/2020 Dynamic Logic Basics [[Notes]]() || [[Video]](https://www.youtube.com/watch?v=YuHOKLQDhfU)
-  - 03/11/2020 Dynamic Logic Charge Storage and Leakage [[Note]]() || [[Video]](https://www.youtube.com/watch?v=ccpHAoBGP0Y)
-  - 04/11/2020 Voltage Bootstrapping Circuit [[Notes]]() || [[Video]](https://www.youtube.com/watch?v=TjaVo3eiCuU)
+  - 02/11/2020 Dynamic Logic Basics [[]]() || [[Video]](https://www.youtube.com/watch?v=YuHOKLQDhfU)
+  - 03/11/2020 Dynamic Logic Charge Storage and Leakage [[]]() || [[Video]](https://www.youtube.com/watch?v=ccpHAoBGP0Y)
+  - 04/11/2020 Voltage Bootstrapping Circuit [[]]() || [[Video]](https://www.youtube.com/watch?v=TjaVo3eiCuU)
 # Course Materials (Laboratary) 
 ## Experiment/SpiceNetlist
   - 29/07/2020 Open Source EDA Setup [[Video]](https://www.youtube.com/watch?v=xt_r3TMzsCg)
