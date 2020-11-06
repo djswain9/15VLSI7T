@@ -99,6 +99,7 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 21/09/2020 Latch and Flip-Flop Circuits [[Notes]](https://www.dropbox.com/s/0q6lvah7bk2j11e/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits.pdf) || [[Video]](https://www.youtube.com/watch?v=LHw9McKBRJI)
   - 21/09/2020 Sequential Logic Circuits [[Slides]](https://www.dropbox.com/s/uht871k7dje6hnj/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits-Slides%28Kang-Book%29.pdf) || [[Video]](https://www.youtube.com/watch?v=ETCqIvNYOpk)
   - 22/09/2020 Setup, Hold and Propagation delay of D-FF [[Notes]](https://www.dropbox.com/s/xmpueuvrqmcsclv/2020-0922-15VLSI7T-Module2-Lecture30-31-Setup-Hold-Propagation-Delay-of-DFF.pdf) || [[Video]](https://www.youtube.com/watch?v=5Ofx-QubGts)
+  - 23/09/2020 Hold Time Analysis of DFF [[]]() || [[Video]](https://www.youtube.com/watch?v=5HziqKs8luE)
 - **Dynamic Logic Circuits**
   - 02/11/2020 Dynamic Logic Basics [[]]() || [[Video]](https://www.youtube.com/watch?v=YuHOKLQDhfU)
   - 03/11/2020 Dynamic Logic Charge Storage and Leakage [[]]() || [[Video]](https://www.youtube.com/watch?v=ccpHAoBGP0Y)
