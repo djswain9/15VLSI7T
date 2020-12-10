@@ -104,6 +104,8 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 02/11/2020 Dynamic Logic Basics [[]]() || [[Video]](https://www.youtube.com/watch?v=YuHOKLQDhfU)
   - 03/11/2020 Dynamic Logic Charge Storage and Leakage [[]]() || [[Video]](https://www.youtube.com/watch?v=ccpHAoBGP0Y)
   - 04/11/2020 Voltage Bootstrapping Circuit [[]]() || [[Video]](https://www.youtube.com/watch?v=TjaVo3eiCuU)
+ - **Semiconductor Memory**
+ 
 # Course Materials (Laboratary) 
 ## Experiment/SpiceNetlist
   - 29/07/2020 Open Source EDA Setup [[Video]](https://www.youtube.com/watch?v=xt_r3TMzsCg)
