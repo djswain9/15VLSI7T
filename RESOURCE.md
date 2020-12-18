@@ -105,6 +105,8 @@ Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ez
   - 03/11/2020 Dynamic Logic Charge Storage and Leakage [[]]() || [[Video]](https://www.youtube.com/watch?v=ccpHAoBGP0Y)
   - 04/11/2020 Voltage Bootstrapping Circuit [[]]() || [[Video]](https://www.youtube.com/watch?v=TjaVo3eiCuU)
  - **Semiconductor Memory**
+  - 24/11/2020 Semiconductor Memory Basics [[]]() || [[Video]](https://www.youtube.com/watch?v=9W-78aQge8c)
+  - 25/11/2020 Static Static Random Access Memory (SRAM) [[]]() || [[Video]](https://www.youtube.com/watch?v=4o_Ed3EZxYo) 
  
 # Course Materials (Laboratary) 
 ## Experiment/SpiceNetlist
