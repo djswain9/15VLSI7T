@@ -53,16 +53,16 @@ with n-Type MOSFET Load, CMOS Inverter.
 
 # Literature Reference
 **Text Books**
-  - Sung-Mo Kang and Yusuf Leblebici, CMOS Digital Integrated Circuits: Analysis and Design, 3rd Edn., Tata McGraw-Hill Publishing Company Limited, 2003 [Link](https://www.dropbox.com/s/5h4prayo3jr286r/Book-CMOS%20Digital%20Integrated%20Circuits%20Analysis%20%20Design%20by%20Sung-Mo%20%28Steve%29%20Kang%2C%20Yusuf%20Leblebici.pdf)
-  - K. Eshraghian and N.H.E. Weste, Principles of CMOS VLSI Design – a Systems Perspective, 2nd Edn., Addison Wesley, 1993. [Link](https://www.dropbox.com/s/n2xpr6gr3upor80/Book-Weste-Harris-CMOS-VLSI-design-Pearson-4thEd-2011.pdf)
+  - Sung-Mo Kang and Yusuf Leblebici, CMOS Digital Integrated Circuits: Analysis and Design, 3rd Edn., Tata McGraw-Hill Publishing Company Limited, 2003 
+  - K. Eshraghian and N.H.E. Weste, Principles of CMOS VLSI Design – a Systems Perspective, 2nd Edn., Addison Wesley, 1993. 
   - [Das10] Debaprasad Das, VLSI Design, Oxford University Press, New Delhi, 2010
   
 **Reference Books**
 - Wayne Wolf, Modern VLSI Design System – on – Chip Design, 3rd Edn., PHI
 - Ian M. Rabaey, AnanthaChandrakasan, Borivoje Nikolic, Digital Integrated Circuits – A
-Design Perspective, 2nd Edn., PHI [Link](https://www.dropbox.com/s/wsdpplskgq0ezzo/Book-Digital%20Integrated%20Circuits%20%282nd%20Edition%29%20by%20Jan%20M.%20Rabaey.pdf)
-- John P. Uyemura, CMOS Logic Circuit Design, Springer (Kluwer Academic Publishers) 2001 [Link](https://www.dropbox.com/s/k7mgzlb6q8r74pm/Book-Circuit%20Design%20for%20CMOS%20VLSI%20by%20John%20P.%20Uyemura.pdf)
-- Ken Martin, Digital Integrated Circuit Design, Oxford University Press, 2000 [Link](https://www.dropbox.com/s/uealymk8epn8n27/Digital%20integrated%20circuit%20design%20by%20Kenneth%20W%20Martin.pdf)
+Design Perspective, 2nd Edn., PHI 
+- John P. Uyemura, CMOS Logic Circuit Design, Springer (Kluwer Academic Publishers) 2001 
+- Ken Martin, Digital Integrated Circuit Design, Oxford University Press, 2000 
 
 # Open Source EDA Setup
 **LXLE-LINUX**
