@@ -25,7 +25,7 @@
 
 
 # Syllabus
-**MODULE-I** (Chapter 1 to 5 of Text Book 1([Kang03]) and for Stick Diagram Text Book 2 ([Weste11]) )
+**MODULE-I** (Chapter 1 to 5 of Text Book 1(Kang) and for Stick Diagram Text Book 2 (Weste1))
 - **Introduction**: Historical Perspective, VLSI Design Methodologies, VLSI Design Flow,Design
 Hierarchy, Concept of Regularity, Modularity and Locality.
 - **Fabrication of MOSFETs**: Introduction, Fabrication Processes Flow – Basic Concepts,The
@@ -55,7 +55,7 @@ with n-Type MOSFET Load, CMOS Inverter.
 **Text Books**
   - Sung-Mo Kang and Yusuf Leblebici, CMOS Digital Integrated Circuits: Analysis and Design, 3rd Edn., Tata McGraw-Hill Publishing Company Limited, 2003 
   - K. Eshraghian and N.H.E. Weste, Principles of CMOS VLSI Design – a Systems Perspective, 2nd Edn., Addison Wesley, 1993. 
-  - [Das10] Debaprasad Das, VLSI Design, Oxford University Press, New Delhi, 2010
+  - Debaprasad Das, VLSI Design, Oxford University Press, New Delhi, 2010
   
 **Reference Books**
 - Wayne Wolf, Modern VLSI Design System – on – Chip Design, 3rd Edn., PHI
