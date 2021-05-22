@@ -36,7 +36,7 @@ External Bias, Structure and Operation of MOS Transistor (MOSFET), MOSFET Curren
 - **MOS Inverters**: Static Characteristics: Introduction, Resistive-Load Inverters, Inverters
 with n-Type MOSFET Load, CMOS Inverter.
 
-**MODULE-II** (Chapter 6 to 8 of Text Book 1([Kang03]))
+**MODULE-II** (Chapter 6 to 8 of Text Book 1(Kang))
 - **MOS Inverters - Switching Characteristics and Interconnect Effects**: Introduction, Delay-Time Definition, Calculation of Delay-Times, Inverter Design with Delay Constraints, Switching Power Dissipation of CMOS Inverters.
 - **Combinational MOS Logic Circuits**: Introduction, MOS Logic Circuit with Depletion NMOD Loads, CMOS Logic Circuits, Complex Logic Circuits, CMOS Transmission Gates (Pass Gates).
 - **Sequential MOS Logic Circuits**: Introduction, Behaviour of Bistable elements, SR Latch Circuits, Clocked Latch and Flip-Flop Circuits, CMOS D-Latch and Edge-Triggerd Flip Flop.
