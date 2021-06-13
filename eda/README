@@ -1,0 +1,10 @@
+All EDA tools are maintained at
+https://github.com/silicon-vlsi-org
+
+You can use the following repos:
+
+/eda-ngspice 	: NGSPICE
+/eda-cppsimLite	: For Sue2 Schematic editor and Python Libs
+/eda-magic	: Magic Layout
+/eda-netgen	: Netgen LVS tool
+/eda-technology	: All technology files
